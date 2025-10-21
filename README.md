@@ -85,3 +85,9 @@
 - Use LSTM or hybrid GRU-LSTM models for improved performance.
 
 - Integrate real hospital datasets for clinical accuracy.
+
+### 👨‍💻 Author
+
+**Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer*
